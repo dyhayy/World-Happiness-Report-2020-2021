@@ -13,7 +13,7 @@ Project ini menggunakan dataset World Happiness Report 2020-2021, yang dapat dit
 berisi 20 kolom dan 301 baris, dengan setiap baris mewakili sebuah negara dan setiap kolom mewakili variabel yang terkait 
 dengan kebahagiaan.
 
-dataset : https://www.kaggle.com/datasets/mathurinache/world-happiness-report/?select=2020.csv
+dataset : https://www.kaggle.com/datasets/mathurinache/world-happiness-report/?select=2020.csv <br>
 dengan variabel sebagai berikut :
 | Plugin | README |
 | ------ | ------ |

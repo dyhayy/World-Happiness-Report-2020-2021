@@ -27,7 +27,7 @@ dengan variabel sebagai berikut :
 |`Social support`|Dukungan sosial (memiliki seseorang yang dapat diandalkan)|
 |`Healthy life expectancy` |Angka Harapan Hidup Sehat (HLE), menggambarkan berapa lama seseorang diharapkan hidup dalam kondisi sehat.|
 |`Freedom to make life choices`|Kebebasan untuk menentukan pilihan hidup|
-|`Generosity` : Kemurahan hati, tergambar dari pertanyaan GWP "Apakah Anda pernah menyumbangkan uang untuk kegiatan amal dalam satu bulan terakhir?" pada PDB per kapita.|
+|`Generosity`|Kemurahan hati, tergambar dari pertanyaan GWP "Apakah Anda pernah menyumbangkan uang untuk kegiatan amal dalam satu bulan terakhir?" pada PDB per kapita.|
 |`Perceptions of corruption` |Ukurannya rata-rata nasional dari tanggapan survei terhadap dua pertanyaan dalam GWP: "Apakah korupsi tersebar luas di seluruh pemerintahan atau tidak" dan "Apakah korupsi tersebar luas di dunia usaha atau tidak?"|
 |`Ladder score in Dystopia` |Skor Kebahagiaan untuk negara fiksi Dystopia. Dystopia digunakan sebagai garis dasar, skor terendah karena memiliki penduduk paling tidak bahagia di dunia.|
 
